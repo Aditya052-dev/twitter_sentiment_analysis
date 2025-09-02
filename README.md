@@ -51,9 +51,13 @@ Tkinter	For building the native desktop GUI.
 📂 Project Structure
 .
 ├── gui.py              # Main application script with the Tkinter GUI
+
 ├── config.py           # Configuration file for API keys (must be created manually)
+
 ├── assets/               # (Optional) Folder for images like the banner
+
 │   └── twitter_analysis_banner.png
+
 └── README.md           # This file
 
 ⚙️ Getting Started
