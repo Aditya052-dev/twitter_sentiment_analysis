@@ -48,8 +48,8 @@ Matplotlib	For creating all the data visualizations.
 
 Tkinter	For building the native desktop GUI.
 
-📂 Project Structure
-.
+📂 Project Structure.
+
 ├── gui.py              # Main application script with the Tkinter GUI
 
 ├── config.py           # Configuration file for API keys (must be created manually)
